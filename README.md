@@ -1,3 +1,3 @@
 # MIZU
 Water Potablity
-Link: https://frbccm4pf3kjkgtrm8rxgl.streamlit.app/
+Link: https://mizu-waterapp.streamlit.app/
